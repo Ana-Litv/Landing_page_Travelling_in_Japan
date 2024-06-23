@@ -1558,4 +1558,16 @@ img {
   }
 }
 
+@media screen and (max-width: 411px) {
+  .benefits__card-more {
+    background: url(../img/svg/arrow-ico.svg) no-repeat 45% center;
+  }
+
+  .benefits__card-more:hover,
+  .benefits__card-more:focus,
+  .benefits__card-more:active {
+    background: url(../img/svg/arrow-ico.svg) no-repeat 50% center;
+  }
+}
+
 /* Media end */
