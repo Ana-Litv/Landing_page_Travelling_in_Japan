@@ -1558,7 +1558,7 @@ img {
   }
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 500px) {
   .benefits__card-more {
     background: url(../img/svg/arrow-ico.svg) no-repeat 45% center;
   }
